@@ -1,4 +1,4 @@
-# ML Bootcamp Week-3 Day-1🚀
+# ML Bootcamp Week-3 Day-2🚀
 #### __📍Note:__ This repository contains materials for ML Bootcamp Week-3 Day-1, focusing on K-means clustering and K-nearest neighbor (KNN) algorithms.
 ----
 
